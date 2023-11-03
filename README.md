@@ -1,2 +1,2 @@
-# shopifyT
+# shopify
 template
